@@ -19,3 +19,5 @@
 
 ## Visualizations
 *For both Polsby-Popper and Reock, scores closer to 1 indicate a more compact district.*
+
+![alt text](https://github.com/sfinnexe/Arizona-Redistricting/blob/main/Visualizations/Compactness%20lab%20results.pdf)
